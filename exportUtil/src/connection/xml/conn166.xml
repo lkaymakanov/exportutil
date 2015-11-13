@@ -1,0 +1,193 @@
+<?xml version="1.0"?>
+<connections>
+
+ <connection>
+   <driver>oracle.jdbc.OracleDriver</driver>
+   <url>jdbc:oracle:thin:@10.240.44.166:1521:LTF</url>
+   <user>bnk</user>
+   <pass>Bnk12345</pass>
+   <name>БАНКЯ 166</name>
+ </connection>
+ 
+  <connection>
+   <driver>oracle.jdbc.OracleDriver</driver>
+   <url>jdbc:oracle:thin:@10.240.44.166:1521:LTF</url>
+   <user>iln</user>
+   <pass>Iln12345</pass>
+   <name>ИЛИНДЕН 166</name>
+ </connection>
+ 
+ <connection>
+   <driver>oracle.jdbc.OracleDriver</driver>
+   <url>jdbc:oracle:thin:@10.240.44.166:1521:LTF</url>
+   <user>isk</user>
+   <pass>Isk12345</pass>
+   <name>ИСКЪР 166</name>
+ </connection>
+ 
+ <connection>
+   <driver>oracle.jdbc.OracleDriver</driver>
+   <url>jdbc:oracle:thin:@10.240.44.166:1521:LTF</url>
+   <user>izg</user>
+   <pass>Izg12345</pass>
+   <name>ИЗГРЕВ 166</name>
+ </connection>
+ 
+ <connection>
+   <driver>oracle.jdbc.OracleDriver</driver>
+   <url>jdbc:oracle:thin:@10.240.44.166:1521:LTF</url>
+   <user>krp</user>
+   <pass>Krp12345</pass>
+   <name>КРАСНА ПОЛЯНА 166</name>
+ </connection>
+ 
+  <connection>
+   <driver>oracle.jdbc.OracleDriver</driver>
+   <url>jdbc:oracle:thin:@10.240.44.166:1521:LTF</url>
+   <user>krs</user>
+   <pass>Krs12345</pass>
+   <name>КРАСНО СЕЛО 166</name>
+ </connection>
+ 
+  <connection>
+   <driver>oracle.jdbc.OracleDriver</driver>
+   <url>jdbc:oracle:thin:@10.240.44.166:1521:LTF</url>
+   <user>krm</user>
+   <pass>Krm12345</pass>
+   <name>КРЕМИКОВЦИ 166</name>
+ </connection>
+ 
+    <connection>
+   <driver>oracle.jdbc.OracleDriver</driver>
+   <url>jdbc:oracle:thin:@10.240.44.166:1521:LTF</url>
+   <user>lzn</user>
+   <pass>Lzn12345</pass>
+   <name>ЛОЗЕНЕЦ 166</name>
+ </connection>
+ 
+   <connection>
+   <driver>oracle.jdbc.OracleDriver</driver>
+   <url>jdbc:oracle:thin:@10.240.44.166:1521:LTF</url>
+   <user>lln</user>
+   <pass>Lln12345</pass>
+   <name>ЛЮЛИН 166</name>
+ </connection>
+ 
+ 
+ <connection>
+   <driver>oracle.jdbc.OracleDriver</driver>
+   <url>jdbc:oracle:thin:@10.240.44.166:1521:LTF</url>
+   <user>mld</user>
+   <pass>Mld12345</pass>
+   <name>МЛАДОСТ 166</name>
+ </connection>
+ 
+  <connection>
+   <driver>oracle.jdbc.OracleDriver</driver>
+   <url>jdbc:oracle:thin:@10.240.44.166:1521:LTF</url>
+   <user>nad</user>
+   <pass>Nad12345</pass>
+   <name>НАДЕЖДА 166</name>
+ </connection>
+ 
+  <connection>
+   <driver>oracle.jdbc.OracleDriver</driver>
+   <url>jdbc:oracle:thin:@10.240.44.166:1521:LTF</url>
+   <user>nis</user>
+   <pass>Nis12345</pass>
+   <name>НОВИ ИСКЪР 166</name>
+ </connection>
+ 
+ <connection>
+   <driver>oracle.jdbc.OracleDriver</driver>
+   <url>jdbc:oracle:thin:@10.240.44.166:1521:LTF</url>
+   <user>obr</user>
+   <pass>Obr12345</pass>
+   <name>ОБОРИЩЕ 166</name>
+ </connection>
+ 
+   <connection>
+   <driver>oracle.jdbc.OracleDriver</driver>
+   <url>jdbc:oracle:thin:@10.240.44.166:1521:LTF</url>
+   <user>ovk</user>
+   <pass>Ovk12345</pass>
+   <name>ОВЧА КУПЕЛ 166</name>
+ </connection>
+ 
+ 
+ <connection>
+   <driver>oracle.jdbc.OracleDriver</driver>
+   <url>jdbc:oracle:thin:@10.240.44.166:1521:LTF</url>
+   <user>pan</user>
+   <pass>Pan12345</pass>
+   <name>ПАНЧАРЕВО 166</name>
+ </connection>
+ 
+   <connection>
+   <driver>oracle.jdbc.OracleDriver</driver>
+   <url>jdbc:oracle:thin:@10.240.44.166:1521:LTF</url>
+   <user>pdn</user>
+   <pass>Pdn12345</pass>
+   <name>ПОДУЯНЕ 166</name>
+ </connection>
+ 
+ <connection>
+   <driver>oracle.jdbc.OracleDriver</driver>
+   <url>jdbc:oracle:thin:@10.240.44.166:1521:LTF</url>
+   <user>sdk</user>
+   <pass>Sdk12345</pass>
+   <name>СЕРДИКА 166</name>
+ </connection>
+
+ <connection>
+   <driver>oracle.jdbc.OracleDriver</driver>
+   <url>jdbc:oracle:thin:@10.240.44.166:1521:LTF</url>
+   <user>slt</user>
+   <pass>Slt12345</pass>
+   <name>СЛАТИНА 166</name>
+ </connection>
+ 
+ <connection>
+   <driver>oracle.jdbc.OracleDriver</driver>
+   <url>jdbc:oracle:thin:@10.240.44.166:1521:LTF</url>
+   <user>trs</user>
+   <pass>Trs12345</pass>
+   <name>СРЕДЕЦ ТРИАДИЦА 166</name>
+ </connection>
+ 
+   <connection>
+   <driver>oracle.jdbc.OracleDriver</driver>
+   <url>jdbc:oracle:thin:@10.240.44.166:1521:LTF</url>
+   <user>std</user>
+   <pass>Std12345</pass>
+   <name>СТУДЕНТСКА 166</name>
+ </connection>
+ 
+ 
+  <connection>
+   <driver>oracle.jdbc.OracleDriver</driver>
+   <url>jdbc:oracle:thin:@10.240.44.166:1521:LTF</url>
+   <user>vzr</user>
+   <pass>Vzr12345</pass>
+   <name>ВЪЗРАЖДАНЕ 166</name>
+ </connection>
+
+
+  <connection>
+   <driver>oracle.jdbc.OracleDriver</driver>
+   <url>jdbc:oracle:thin:@10.240.44.166:1521:LTF</url>
+   <user>vit</user>
+   <pass>Vit12345</pass>
+   <name>ВИТОША 166</name>
+ </connection>
+ 
+
+  <connection>
+   <driver>oracle.jdbc.OracleDriver</driver>
+   <url>jdbc:oracle:thin:@10.240.44.166:1521:LTF</url>
+   <user>vrb</user>
+   <pass>Vrb12345</pass>
+   <name>ВРЪБНИЦА 166</name>
+ </connection>
+
+</connections>

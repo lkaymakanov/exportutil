@@ -1,0 +1,194 @@
+<?xml version="1.0"?>
+<connections>
+  <connection>
+   <driver>oracle.jdbc.OracleDriver</driver>
+   <url>jdbc:oracle:thin:@172.22.62.124:1521:XE</url>
+   <user>bnk</user>
+   <pass>Bnk12345</pass>
+   <name>БАНКЯ</name>
+ </connection>
+ 
+  <connection>
+   <driver>oracle.jdbc.OracleDriver</driver>
+   <url>jdbc:oracle:thin:@172.22.62.112:1521:XE</url>
+   <user>iln</user>
+   <pass>Iln12345</pass>
+   <name>ИЛИНДЕН</name>
+ </connection>
+ 
+ <connection>
+   <driver>oracle.jdbc.OracleDriver</driver>
+   <url>jdbc:oracle:thin:@172.22.62.114:1521:XE</url>
+   <user>isk</user>
+   <pass>Isk12345</pass>
+   <name>ИСКЪР</name>
+ </connection>
+ 
+    <connection>
+   <driver>oracle.jdbc.OracleDriver</driver>
+   <url>jdbc:oracle:thin:@172.22.62.108:1521:XE</url>
+   <user>izg</user>
+   <pass>Izg12345</pass>
+   <name>ИЗГРЕВ</name>
+ </connection>
+ 
+     <connection>
+   <driver>oracle.jdbc.OracleDriver</driver>
+   <url>jdbc:oracle:thin:@172.22.62.111:1521:XE</url>
+   <user>krp</user>
+   <pass>Krp12345</pass>
+   <name>КРАСНА ПОЛЯНА</name>
+ </connection>
+  <connection>
+   <driver>oracle.jdbc.OracleDriver</driver>
+   <url>jdbc:oracle:thin:@172.22.62.102:1521:XE</url>
+   <user>krs</user>
+   <pass>Krs12345</pass>
+   <name>КРАСНО СЕЛО</name>
+ </connection>
+ 
+  <connection>
+   <driver>oracle.jdbc.OracleDriver</driver>
+   <url>jdbc:oracle:thin:@172.22.62.122:1521:XE</url>
+   <user>krm</user>
+   <pass>Krm12345</pass>
+   <name>КРЕМИКОВЦИ</name>
+ </connection>
+ 
+    <connection>
+   <driver>oracle.jdbc.OracleDriver</driver>
+   <url>jdbc:oracle:thin:@172.22.62.109:1521:XE</url>
+   <user>lzn</user>
+   <pass>Lzn12345</pass>
+   <name>ЛОЗЕНЕЦ</name>
+ </connection>
+ 
+   <connection>
+   <driver>oracle.jdbc.OracleDriver</driver>
+   <url>jdbc:oracle:thin:@172.22.62.119:1521:XE</url>
+   <user>lln</user>
+   <pass>Lln12345</pass>
+   <name>ЛЮЛИН</name>
+ </connection>
+ 
+ 
+ <connection>
+   <driver>oracle.jdbc.OracleDriver</driver>
+   <url>jdbc:oracle:thin:@172.22.62.115:1521:XE</url>
+   <user>mld</user>
+   <pass>Mld12345</pass>
+   <name>МЛАДОСТ</name>
+ </connection>
+ 
+  <connection>
+   <driver>oracle.jdbc.OracleDriver</driver>
+   <url>jdbc:oracle:thin:@172.22.62.113:1521:XE</url>
+   <user>nad</user>
+   <pass>Nad12345</pass>
+   <name>НАДЕЖДА</name>
+ </connection>
+ 
+  <connection>
+   <driver>oracle.jdbc.OracleDriver</driver>
+   <url>jdbc:oracle:thin:@172.22.62.121:1521:XE</url>
+   <user>nis</user>
+   <pass>Nis12345</pass>
+   <name>НОВИ ИСКЪР</name>
+ </connection>
+ 
+ <connection>
+   <driver>oracle.jdbc.OracleDriver</driver>
+   <url>jdbc:oracle:thin:@172.22.62.104:1521:XE</url>
+   <user>obr</user>
+   <pass>Obr12345</pass>
+   <name>ОБОРИЩЕ</name>
+ </connection>
+ 
+   <connection>
+   <driver>oracle.jdbc.OracleDriver</driver>
+   <url>jdbc:oracle:thin:@172.22.62.118:1521:XE</url>
+   <user>ovk</user>
+   <pass>Ovk12345</pass>
+   <name>ОВЧА КУПЕЛ</name>
+ </connection>
+ 
+ 
+ <connection>
+   <driver>oracle.jdbc.OracleDriver</driver>
+   <url>jdbc:oracle:thin:@172.22.62.123:1521:XE</url>
+   <user>pan</user>
+   <pass>Pan12345</pass>
+   <name>ПАНЧАРЕВО</name>
+ </connection>
+ 
+   <connection>
+   <driver>oracle.jdbc.OracleDriver</driver>
+   <url>jdbc:oracle:thin:@172.22.62.106:1521:XE</url>
+   <user>pdn</user>
+   <pass>Pdn12345</pass>
+   <name>ПОДУЯНЕ</name>
+ </connection>
+ 
+ <connection>
+   <driver>oracle.jdbc.OracleDriver</driver>
+   <url>jdbc:oracle:thin:@172.22.62.105:1521:XE</url>
+   <user>sdk</user>
+   <pass>Sdk12345</pass>
+   <name>СЕРДИКА</name>
+ </connection>
+
+ <connection>
+   <driver>oracle.jdbc.OracleDriver</driver>
+   <url>jdbc:oracle:thin:@172.22.62.107:1521:XE</url>
+   <user>slt</user>
+   <pass>Slt12345</pass>
+   <name>СЛАТИНА</name>
+ </connection>
+ 
+ <connection>
+   <driver>oracle.jdbc.OracleDriver</driver>
+   <url>jdbc:oracle:thin:@172.22.62.110:1521:XE</url>
+   <user>trs</user>
+   <pass>Trs12345</pass>
+   <name>СРЕДЕЦ ТРИАДИЦА</name>
+ </connection>
+ 
+   <connection>
+   <driver>oracle.jdbc.OracleDriver</driver>
+   <url>jdbc:oracle:thin:@172.22.62.116:1521:XE</url>
+   <user>std</user>
+   <pass>Std12345</pass>
+   <name>СТУДЕНТСКА</name>
+ </connection>
+ 
+ 
+  <connection>
+   <driver>oracle.jdbc.OracleDriver</driver>
+   <url>jdbc:oracle:thin:@172.22.62.103:1521:XE</url>
+   <user>vzr</user>
+   <pass>Vzr12345</pass>
+   <name>ВЪЗРАЖДАНЕ</name>
+ </connection>
+
+
+  <connection>
+   <driver>oracle.jdbc.OracleDriver</driver>
+   <url>jdbc:oracle:thin:@172.22.62.117:1521:XE</url>
+   <user>vit</user>
+   <pass>Vit12345</pass>
+   <name>ВИТОША</name>
+ </connection>
+ 
+
+  <connection>
+   <driver>oracle.jdbc.OracleDriver</driver>
+   <url>jdbc:oracle:thin:@172.22.62.120:1521:XE</url>
+   <user>vrb</user>
+   <pass>Vrb12345</pass>
+   <name>ВРЪБНИЦА</name>
+ </connection>
+ 
+ 
+
+
+</connections>

@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<connections>
+
+  <connection>
+   <driver>oracle.jdbc.OracleDriver</driver>
+   <url>jdbc:oracle:thin:@10.0.10.140:1521:XE</url>
+   <user>kln</user>
+   <pass>kln</pass>
+   <name>КАЛОЯНОВО</name>
+ </connection>
+ 
+ <connection>
+   <driver>oracle.jdbc.OracleDriver</driver>
+   <url>jdbc:oracle:thin:@192.168.1.100:1521:XE</url>
+   <user>hsr</user>
+   <pass>hsr</pass>
+   <name>ХИСАР</name>
+ </connection>
+ 
+  <connection>
+   <driver>oracle.jdbc.OracleDriver</driver>
+   <url>jdbc:oracle:thin:@10.240.44.166:1521:LTF</url>
+   <user>aks</user>
+   <pass>aks</pass>
+   <name>АКСАКОВО</name>
+ </connection>
+ 
+  <connection>
+   <driver>oracle.jdbc.OracleDriver</driver>
+   <url>jdbc:oracle:thin:@10.240.44.166:1521:LTF</url>
+   <user>sev</user>
+   <pass>sev</pass>
+   <name>СЕВЛИЕВО</name>
+ </connection>
+ 
+</connections>

@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+<connections>
+
+
+  <connection>
+   <driver>oracle.jdbc.OracleDriver</driver>
+   <url>jdbc:oracle:thin:@10.240.44.146:1521:orcl</url>
+   <user>brc</user>
+   <pass>brc</pass>
+   <name>Bracigovo 146</name>
+ </connection>
+ 
+ <connection>
+   <driver>oracle.jdbc.OracleDriver</driver>
+   <url>jdbc:oracle:thin:@10.240.44.146:1521:orcl</url>
+   <user>krp</user>
+   <pass>krp</pass>
+   <name>Krasna Polqna 146</name>
+ </connection>
+
+
+  <connection>
+   <driver>oracle.jdbc.OracleDriver</driver>
+   <url>jdbc:oracle:thin:@10.240.44.146:1521:orcl</url>
+   <user>sdk</user>
+   <pass>sdk</pass>
+   <name>Serdika 146</name>
+ </connection>
+ 
+ <connection>
+   <driver>oracle.jdbc.OracleDriver</driver>
+   <url>jdbc:oracle:thin:@localhost:1521:LTF</url>
+   <user>brc</user>
+   <pass>brc</pass>
+   <name>LOCALHOST ORCL 146</name>
+ </connection>
+ 
+ <connection>
+   <driver>com.is.util.db.driver.digestdriver.DigestDriver</driver>
+   <url>digest:jdbc:postgresql://10.240.110.120:5432/brc</url>
+   <user>mdt</user>
+   <pass>mdt</pass>
+   <name>PGR Bracigovo 120</name>
+ </connection>
+ 
+  <connection>
+   <driver>com.is.util.db.driver.digestdriver.DigestDriver</driver>
+   <url>digest:jdbc:postgresql://10.240.44.149:5432/bnk4</url>
+   <user>bnk</user>
+   <pass>Bnk12345</pass>
+   <name>PGR bnk4 149</name>
+ </connection>
+ 
+   <connection>
+   <driver>com.is.util.db.driver.digestdriver.DigestDriver</driver>
+   <url>digest:jdbc:postgresql://localhost/postgres</url>
+   <user>postgres</user>
+   <pass>012345</pass>
+   <name>PGR localhost</name>
+ </connection>
+ 
+ <connection>
+   <driver>oracle.jdbc.OracleDriver</driver>
+   <url>jdbc:oracle:thin:@localhost:1521:LAKDB</url>
+   <user>brc</user>
+   <pass>brc</pass>
+   <name>LOCALHOST LAKDB</name>
+ </connection>
+ 
+</connections>
